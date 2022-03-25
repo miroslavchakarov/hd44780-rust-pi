@@ -16,6 +16,9 @@ https://1drv.ms/v/s!Ak5sft2RFM38jb4jOWfsavIP3ROe2A?e=IfUv9y
 
 Note: Give it a few seconds to load as onedrive is a bit slower.
 
+At this stage it can only show some basic strings but it will get more complex as soon as we're able to read adequate data from the ADC and the load cell.
+
+
 The near-future goal for the Smart Messroom is:
 - To make the **ADC** (Analogue-to-Digital-Converter) work with **Rust and RPI2**. (See repo HX711-rust-pi)
 
