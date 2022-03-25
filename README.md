@@ -14,12 +14,12 @@ See more on the video below:
 
 https://1drv.ms/v/s!Ak5sft2RFM38jb4jOWfsavIP3ROe2A?e=IfUv9y
 
-Give it a few seconds to load as onedrive is a bit slower.
+Note: Give it a few seconds to load as onedrive is a bit slower.
 
-The near-future goal is:
-- To make the ADC (Analogue-to-Digital-Converter) work with Rust and RPI2. (See repo HX711-rust-pi)
+The near-future goal for the Smart Messroom is:
+- To make the **ADC** (Analogue-to-Digital-Converter) work with **Rust and RPI2**. (See repo HX711-rust-pi)
 
-The end goals of the system would be the following:
-- To show the customer number, product and quantity on the LCD 2004 screen.
-- Having a touch-friendly GUI for the worker side on the 7-inch Touchscreen.
+The end goals for this system would be the following:
+- To display the customer number, product and quantity on the LCD 2004 screen.
+- Having a touch-friendly **GUI** on the 7-inch Touchscreen for the worker to operate with the device.
 - Having a payment system integrated, eventually with **cryptocurrency** or fiat currency.
